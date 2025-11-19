@@ -3,5 +3,9 @@ uvicorn
 pydantic
 python-dotenv
 requests
-playwright
 google-genai
+PyMuPDF
+pandas
+matplotlib
+numpy
+playwright
